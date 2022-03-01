@@ -5,3 +5,5 @@ print (a)
 print (b)
 print (c)
 print (a + b)
+print (a + c)
+
